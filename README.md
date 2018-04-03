@@ -4,10 +4,6 @@
 
 This [Docker](https://www.docker.com) image contains a complete [Nikola](https://getnikola.com/) installation, ready for use. 
 
-Two branches are available:
-
-*Alpine* branch (pulling dragas/rpi-nikola) is based on Alpine and Python 3 official packages and Nikola has been built via pip3 with [Extras] flag so it's complete. It will be periodically rebuilt to follow Nikola and Alpine version updates.
-
 ## About Nikola
 
 Nikola is a static website and blog generator. It supports many input formats. It is fast and reliable. Have a [look here](https://getnikola.com/).
